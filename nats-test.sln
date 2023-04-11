@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nats-test-publisher", "nats-test-publisher\nats-test-publisher.csproj", "{3454F88E-0033-427C-BA29-1D4E178CB912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nats-test-subscriber", "nats-test-subscriber\nats-test-subscriber.csproj", "{9C8DFB1B-ECAB-4A93-8D5E-0BF01B8AF9B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3454F88E-0033-427C-BA29-1D4E178CB912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3454F88E-0033-427C-BA29-1D4E178CB912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3454F88E-0033-427C-BA29-1D4E178CB912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3454F88E-0033-427C-BA29-1D4E178CB912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8DFB1B-ECAB-4A93-8D5E-0BF01B8AF9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8DFB1B-ECAB-4A93-8D5E-0BF01B8AF9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8DFB1B-ECAB-4A93-8D5E-0BF01B8AF9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8DFB1B-ECAB-4A93-8D5E-0BF01B8AF9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

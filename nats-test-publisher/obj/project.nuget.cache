@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lu4YT5f8RkNYccYRx3LQmDMmP+yGeYM+9ofUCNcL9qBf5QMNU7/luWn6slaAWEPVypJBHnAr33/atBCsQy+jRw==",
+  "success": true,
+  "projectFilePath": "/home/bas/nats-test/nats-test-publisher/nats-test-publisher.csproj",
+  "expectedPackageFiles": [
+    "/home/bas/.nuget/packages/nats.client/1.0.3/nats.client.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

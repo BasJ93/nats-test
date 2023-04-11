@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "nats-test-subscriber/1.0.0": {
+        "dependencies": {
+          "NATS.Client": "1.0.3"
+        },
+        "runtime": {
+          "nats-test-subscriber.dll": {}
+        }
+      },
+      "NATS.Client/1.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/NATS.Client.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nats-test-subscriber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NATS.Client/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qh72r7LsJrO86+Km7gTb6OtZN9ZmX5wEjTGnlc8Ui/ROAV9XYsBmgGEJGgHkreaismnar6fRv3Hfrfr9LWBaaw==",
+      "path": "nats.client/1.0.3",
+      "hashPath": "nats.client.1.0.3.nupkg.sha512"
+    }
+  }
+}

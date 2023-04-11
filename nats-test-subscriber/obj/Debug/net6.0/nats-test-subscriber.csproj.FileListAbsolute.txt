@@ -1,0 +1,17 @@
+/home/bas/nats-test/nats-test-subscriber/bin/Debug/net6.0/nats-test-subscriber
+/home/bas/nats-test/nats-test-subscriber/bin/Debug/net6.0/nats-test-subscriber.deps.json
+/home/bas/nats-test/nats-test-subscriber/bin/Debug/net6.0/nats-test-subscriber.runtimeconfig.json
+/home/bas/nats-test/nats-test-subscriber/bin/Debug/net6.0/nats-test-subscriber.dll
+/home/bas/nats-test/nats-test-subscriber/bin/Debug/net6.0/ref/nats-test-subscriber.dll
+/home/bas/nats-test/nats-test-subscriber/bin/Debug/net6.0/nats-test-subscriber.pdb
+/home/bas/nats-test/nats-test-subscriber/bin/Debug/net6.0/NATS.Client.dll
+/home/bas/nats-test/nats-test-subscriber/obj/Debug/net6.0/nats-test-subscriber.csproj.AssemblyReference.cache
+/home/bas/nats-test/nats-test-subscriber/obj/Debug/net6.0/nats-test-subscriber.GeneratedMSBuildEditorConfig.editorconfig
+/home/bas/nats-test/nats-test-subscriber/obj/Debug/net6.0/nats-test-subscriber.AssemblyInfoInputs.cache
+/home/bas/nats-test/nats-test-subscriber/obj/Debug/net6.0/nats-test-subscriber.AssemblyInfo.cs
+/home/bas/nats-test/nats-test-subscriber/obj/Debug/net6.0/nats-test-subscriber.csproj.CoreCompileInputs.cache
+/home/bas/nats-test/nats-test-subscriber/obj/Debug/net6.0/nats-test-subscriber.csproj.CopyComplete
+/home/bas/nats-test/nats-test-subscriber/obj/Debug/net6.0/nats-test-subscriber.dll
+/home/bas/nats-test/nats-test-subscriber/obj/Debug/net6.0/ref/nats-test-subscriber.dll
+/home/bas/nats-test/nats-test-subscriber/obj/Debug/net6.0/nats-test-subscriber.pdb
+/home/bas/nats-test/nats-test-subscriber/obj/Debug/net6.0/nats-test-subscriber.genruntimeconfig.cache
